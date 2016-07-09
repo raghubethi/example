@@ -1,1 +1,1 @@
-print "micropyramid"
+print "hello world"
